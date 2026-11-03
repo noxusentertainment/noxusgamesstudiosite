@@ -25,5 +25,37 @@
         "url": "https://noxusgamesstudio.itch.io/she-wears-my-face"
       }
     ]
+  },
+  {
+    "id": "the-smiling-man",
+    "titulo": "The Smiling Man",
+    "descricao": "Game inspired by Michael Evan's short film (2AM: The Smiling Man)\n\nA game where a completely mad man, who watches you and stalks you during a temporarily peaceful night, is ready to flee this terrifying danger?",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2022",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSmilingMan/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSmilingMan/icon.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODU1LnBuZw==/original/KJhCpN.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODYyLnBuZw==/original/RLyXAy.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODU2LnBuZw==/original/7PNPXB.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODY0LnBuZw==/original/FP8F9r.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODU5LnBuZw==/original/VXDEcC.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODU4LnBuZw==/original/7w48xv.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODYzLnBuZw==/original/hlFcBq.png",
+      "https://img.itch.zone/aW1hZ2UvMTM3MTc3MS83OTk0ODU3LnBuZw==/original/G0kNSa.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/thesmilingman"
+      }
+    ],
+    "estilo": "ps1"
   }
 ]
