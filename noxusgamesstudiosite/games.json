@@ -57,5 +57,34 @@
         "url": "https://noxusgamesstudio.itch.io/she-wears-my-face"
       }
     ]
+  },
+  {
+    "id": "the-slasher-camp-massacre",
+    "titulo": "The Slasher: Camp Massacre",
+    "descricao": "The masked killer in the camp is killing everyone. Who does he want to avenge?\n\nA vengeful and angry killer is killing everyone in the camp, are you ready to escape? or are you ready to die?",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2022",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSlasherCampMassacre/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSlasherCampMassacre/icon.jpg",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMTY5MjAzNy85OTY3NjE3LmpwZw==/original/a8duth.jpg",
+      "https://img.itch.zone/aW1hZ2UvMTY5MjAzNy85OTY3NjE2LmpwZw==/original/chjNgd.jpg",
+      "https://img.itch.zone/aW1hZ2UvMTY5MjAzNy85OTY3NjE1LmpwZw==/original/oHF4rG.jpg",
+      "https://img.itch.zone/aW1hZ2UvMTY5MjAzNy85OTY3NjE0LmpwZw==/original/GmoqC1.jpg",
+      "https://img.itch.zone/aW1hZ2UvMTY5MjAzNy85OTY3NjE4LmpwZw==/original/rmhowm.jpg"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/tscampmassacre"
+      }
+    ],
+    "estilo": "ps1"
   }
 ]
