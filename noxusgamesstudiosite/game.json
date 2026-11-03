@@ -1,0 +1,29 @@
+[
+  {
+    "id": "she-wears-my-face",
+    "titulo": "She Wears My Face",
+    "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
+    "categorias": [
+      "Terror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Lançado",
+    "lancamento": "2026",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/coverart.jpg",
+    "screenshots": [
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/screenshots/1.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/screenshots/2.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/screenshots/3.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/screenshots/4.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/SheWearsMyFace/screenshots/5.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/she-wears-my-face"
+      }
+    ]
+  }
+]
