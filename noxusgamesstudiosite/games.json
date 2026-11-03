@@ -61,6 +61,34 @@
     "estilo": "ps1"
   },
   {
+    "id": "death-tapes",
+    "titulo": "Death Tapes",
+    "descricao": "Texas killer wants to kill and record everything!\n\nA masked killer from Texas is on the loose killing and recording everything, the killer plans to attack yet another victim in a Texas apartment, will you survive this attack!?\n\nA new sequence is being made, this time... I am working with the script of the sequence, something I didn't do before. What I can say about the sequence is that the game will be much bigger, with 1 hour or more of gameplay, and I will try my best to make it not as repetitive as the previous one was.",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2022",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/DeathTapes/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/DeathTapes/icon.jpg",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMTc5OTQ3Mi8xMDU3NTU4MS5wbmc=/original/W7FUR0.png",
+      "https://img.itch.zone/aW1hZ2UvMTc5OTQ3Mi8xMDU3NTU3NS5wbmc=/original/RwboYy.png",
+      "https://img.itch.zone/aW1hZ2UvMTc5OTQ3Mi8xMDU3NTU3NC5wbmc=/original/%2BgrERi.png",
+      "https://img.itch.zone/aW1hZ2UvMTc5OTQ3Mi8xMDU3NTU3My5wbmc=/original/kTvKgk.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/death-tapes"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
