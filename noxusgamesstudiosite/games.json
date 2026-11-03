@@ -89,6 +89,33 @@
     "estilo": "ps1"
   },
   {
+    "id": "shadow-eyes",
+    "titulo": "Shadow Eyes",
+    "descricao": "Short horror game with VHS and PS1 style graphics\n\nThe protagonist takes on the role of an Urban Explorer, where this time, he decides to explore a forest called 'Raven Wood', where there is a legend that says there is a creature that is not human, but has a similar form, that kills anyone who dares to enter it. According to reports, these creatures emerged through a ritual, and according to rumors, all those who dared to enter the forest never came out, except for one person who managed to survive after entering this place, and mysteriously was killed 2 weeks after visiting the place.",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2023",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/ShadowEyes/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/ShadowEyes/icon.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMjAzNDY3Ny8xMTk2Njk2My5wbmc=/original/5hXqbY.png",
+      "https://img.itch.zone/aW1hZ2UvMjAzNDY3Ny8xMTk2Njk2NS5wbmc=/original/MZevAF.png",
+      "https://img.itch.zone/aW1hZ2UvMjAzNDY3Ny8xMTk2Njk5OC5wbmc=/original/iXJR7Q.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/shadow-eyes"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
