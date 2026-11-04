@@ -204,6 +204,33 @@
     "estilo": "ps1"
   },
   {
+    "id": "the-mountwood-creature",
+    "titulo": "The MountWood Creature",
+    "descricao": "The creature from MountWood is real! and it has claimed yet another victim. Who and how will they solve the case?\n\nIn \"The MountWood Creature,\" you take on the role of Joseph, an unemployed man desperate for a job. Accepting a position at a remote watchtower in the MountWood forest, he soon discovers that his new job is more terrifying than he could have ever imagined.",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2024",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheMountWoodCreature/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheMountWoodCreature/icon.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMjgxNjYwOC8xNjgzNTU3NS5naWY=/original/JYQJhK.gif",
+      "https://img.itch.zone/aW1hZ2UvMjgxNjYwOC8xNjgzNTU5NC5wbmc=/original/Repm36.png",
+      "https://img.itch.zone/aW1hZ2UvMjgxNjYwOC8xNjgzNTU5Ni5wbmc=/original/36UtAi.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/the-mountwood-creature"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
