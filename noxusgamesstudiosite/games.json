@@ -172,6 +172,38 @@
     "estilo": "ps1"
   },
   {
+    "id": "leave-me-alone",
+    "titulo": "Leave Me Alone",
+    "descricao": "PS1-style slasher horror game inspired by Resident Evil and some horror films from the 80s and 90s.\n\nExplore the hidden terror in the depths of Whispering Woods forest in this slasher game inspired by PS1 classics and horror films from the '80s and '90s. Jackson Foster and Noah Carter's tranquil journey turns into a nightmare as night falls, revealing sinister secrets and a masked killer. Feel the adrenaline as you navigate the dark scenery, immerse yourself in the suspense of a gripping plot, and get ready for moments of pure terror, where the line between legend and reality blurs. Survive the silent trail and unravel the mysteries hidden in the darkness.",
+    "categorias": [
+      "Horror",
+      "Adventure"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2024",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/LeaveMeAlone/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/LeaveMeAlone/icon.jpg",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDgyMS5qcGc=/original/KrLHGF.jpg",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDgzOS5wbmc=/original/Wy%2F%2BP4.png",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDg0Mi5wbmc=/original/e0DVnQ.png",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDg0MS5wbmc=/original/8HBiL0.png",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDg0MC5wbmc=/original/7Admcl.png",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDg0My5wbmc=/original/85JMd8.png",
+      "https://img.itch.zone/aW1hZ2UvMjQ1NjM5Ni8xNDU4NDg0NC5wbmc=/original/QIn3H9.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/leavemealone"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
