@@ -145,6 +145,33 @@
     "estilo": "ps1"
   },
   {
+    "id": "the-wanted-man-s-house",
+    "titulo": "The Wanted Man's House",
+    "descricao": "The \"Baby Face\" killer is wanted! Mason seeks fame by breaking into \"Baby Face's\" home.\n\nIn \"The Wanted Man's House,\" plunge into the shadows of a slasher suspense, inspired by iconic horror films from the '80s and '90s. Take on the role of Mason, a daring adventurer in pursuit of fame, determined to break into the infamous residence of the sought-after killer known as \"Baby Face.\"\n\nThe story unfolds as Mason, armed with courage and a camera, discovers that the location of the house has been inadvertently revealed by his own friends. His goal? Record every chilling moment to expose the terror in the city's newspaper. However, things take an unexpected turn when Baby Face returns home. Are you ready to face the nightmare?",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2023",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheWantedManSHouse/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheWantedManSHouse/icon.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMjM5NTI2My8xNDE3NzgyNS5wbmc=/original/Gk%2F5Ew.png",
+      "https://img.itch.zone/aW1hZ2UvMjM5NTI2My8xNDE3NzgyMy5wbmc=/original/CH23KP.png",
+      "https://img.itch.zone/aW1hZ2UvMjM5NTI2My8xNDE3NzgyNC5wbmc=/original/xADLap.png"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/the-wanted-mans-house"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
