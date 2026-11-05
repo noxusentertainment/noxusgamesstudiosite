@@ -417,6 +417,44 @@
     "estilo": "ps1"
   },
   {
+    "id": "night-maniac-the-origin-of-steven",
+    "titulo": "Night Maniac: The Origin Of Steven",
+    "descricao": "Night Maniac: The Origin of Steven is a narrative horror set in Red Valley in the year 1948. In the heart of an industrial town suffocated by rain, smoke, and silence, you follow Steven Watson, a cold, methodical, and increasingly isolated young man, as his routine at the slaughterhouse begins to blur with a darker and more disturbing reality. What seems like just another day of work slowly turns into a descent into the cruelest side of Red Valley, where every encounter leaves scars and nothing stays clean for long.\n\nThe story revolves around Steven and the way he sees the world. Between the slaughterhouse, the bar, the police station, and the wet streets of the town, Night Maniac builds a dense, intimate, and oppressive atmosphere, guided by characters who orbit the protagonist's life and amplify the feeling of constant tension. The game explores themes such as control, coldness, violence, and emotional exhaustion, always keeping the mystery and preserving the most important events of the plot.\n\nIn Red Valley, the weight of routine is no less than the weight of horror. What exists here is a broken town, pierced by fear, appearances, and secrets. At the center of it all is Steven, a man who does not fit the idea of a common victim nor a traditional hero. Night Maniac is the origin story of someone who, little by little, stops merely enduring the world around him and begins to shape it with his own hands.",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2026",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/icon.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/1.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/2.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/3.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/4.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/5.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/6.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/screenshot1.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/8.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/9.png",
+      "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/NightManiacTheOriginOfSteven/screenshots/10.png"
+    ],
+    "links": [
+      {
+        "nome": "Steam",
+        "url": "https://store.steampowered.com/app/4747990/Night_Maniac_The_Origin_Of_Steven"
+      },
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/night-maniac-the-origin-of-steven"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
