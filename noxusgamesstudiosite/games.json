@@ -355,6 +355,32 @@
     "estilo": "ps1"
   },
   {
+    "id": "the-soul",
+    "titulo": "The Soul",
+    "descricao": "PS1 Style Horror game. Two friends stranded at a farmhouse, silence becomes threat.\n\nThe Soul is a suspenseful slasher with a PS1-era aesthetic, set in a remote rural landscape. Two friends, a house in the middle of nowhere, and a presence that turns silence into a threat. Restrained imagery, shadows that reveal less than they suggest, and a steadily growing tension conveyed through the stillness of the fields.\n\nThe Soul began development around November or December of 2022, but was eventually canceled. In 2025, I decided not only to return to its development but to completely recreate it.",
+    "categorias": [],
+    "plataformas": [],
+    "status": "Released",
+    "lancamento": "",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSoul/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSoul/icon.jpg",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgyNS5qcGc=/original/Aow%2Fow.jpg",
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgzNy5qcGc=/original/llyVM5.jpg",
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgzMy5qcGc=/original/vFNAEq.jpg",
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgzNC5qcGc=/original/%2F6sdrC.jpg",
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgzNi5qcGc=/original/znymLM.jpg",
+      "https://img.itch.zone/aW1hZ2UvNDAyNjg4MC8yNDAzODgzNS5qcGc=/original/Hjw4nb.jpg"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/the-soul"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
