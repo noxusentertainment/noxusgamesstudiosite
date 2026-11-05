@@ -322,6 +322,39 @@
     "estilo": "dvd"
   },
   {
+    "id": "the-smiling-man-legacy-edition",
+    "titulo": "The Smiling Man: Legacy Edition",
+    "descricao": "Reclaim the PS1-style terror of The Smiling Man with new scenes, lore, upgraded AI chase, and a new ending.\n\nThe Smiling Man: Legacy Edition, a relaunch designed to faithfully echo the spirit and simplicity of the original game while adding fresh content for longtime fans.\n\nIn this Legacy Edition, you’ll find brand-new scenes and environments, a fifth ending, and an expanded origin story for the Smiling Man. We’ve sharpened his pursuit AI, squashed long-standing bugs, and restored cut content—all to recreate the tense, low-poly atmosphere you loved in the first title, with modern polish and surprising new twists.\n\nWelcome to the final version of The Smiling Man! I hope you enjoy it!",
+    "categorias": [
+      "Horror"
+    ],
+    "plataformas": [
+      "PC"
+    ],
+    "status": "Released",
+    "lancamento": "2025",
+    "coverArt": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSmilingManLegacyEdition/coverart.jpg",
+    "icone": "https://raw.githubusercontent.com/noxusentertainment/noxusgamesstudiosite/main/noxusgamesstudiosite/coverarts/TheSmilingManLegacyEdition/icon.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3MjUxNC5wbmc=/original/sptulV.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk2OS5wbmc=/original/oN2xUI.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk3Ni5wbmc=/original/6uOgIo.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk4Mi5wbmc=/original/XReavh.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk4Ni5wbmc=/original/hIIpW%2F.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk4OS5wbmc=/original/FBeqOg.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA3OTk5NC5wbmc=/original/3Ssl1w.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA4MDAwNC5wbmc=/original/CXVEGl.png",
+      "https://img.itch.zone/aW1hZ2UvMzUzODQxOS8yMTA4MDAyNC5qcGc=/original/kZnrvD.jpg"
+    ],
+    "links": [
+      {
+        "nome": "itch.io",
+        "url": "https://noxusgamesstudio.itch.io/the-smiling-man-legacy-edition"
+      }
+    ],
+    "estilo": "ps1"
+  },
+  {
     "id": "she-wears-my-face",
     "titulo": "She Wears My Face",
     "descricao": "She Wears My Face is a short narrative horror game set in Fort Worth, Texas.\n\nJennie Jones hasn’t slept well in a long time. Every week she sits in a therapist’s office and answers the same question: does she still appear? And every week the answer is yes. Same face. Same stare. Always far away.\n\nUntil today.\n\nYou walk Jennie home after her session, get the house ready for the night, and try to rest. It sounds simple. It isn’t. The street feels wrong, the house feels quieter than it should, and the thing that has been watching from a distance has stopped keeping its distance.",
